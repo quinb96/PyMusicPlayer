@@ -30,13 +30,10 @@ def prevsong(*args):
 def stopsong(*args):
 	pygame.mixer.music.stop()
 	v.set("")
-	return songname
 
 def updatelabel():
 	global index
-	global songname
 	v.set(listofsongs[index])
-	return songname
 
 def directorychooser():
 	directory = filedialog.askdirectory(title="Select Folder")
