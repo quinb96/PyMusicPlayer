@@ -120,7 +120,7 @@ root.bind("<space>", stopsong)
 songlabel.pack()
 
 githubbtn = Button(root, image=githubbtnicon, command=opengithub, relief="flat")
-githubbtn.pack(side=bottom, sticky=E)
+githubbtn.pack()
 
 menu = Menu(root)
 submenu = Menu(menu, tearoff=False)
