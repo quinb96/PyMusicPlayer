@@ -10,4 +10,4 @@ python3 PyMusicPlayer.py
 ``testing``
 
 Ello::
-$ pip install -e
+  $ pip install -e
