@@ -6,13 +6,8 @@ Run this script by opening your terminal and typing::
   git clone https://github.com/sketchyboi14/PyMusicPlayer.git
   cd PyMusicPlayer
   python3 PyMusicPlayer
+  
+If you'd like to install this onto your device type:
 
-cd PyMusicPlayer
-
-python3 PyMusicPlayer.py
-
-``testing``
-
-Ello::
-
-  $ pip install -e
+  python setup.py install
+  python -m PyMusicPlayer
