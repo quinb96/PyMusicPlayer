@@ -10,4 +10,6 @@ Run this script by opening your terminal and typing::
 If you'd like to install this onto your device type::
 
   python setup.py install
+  or
+  pip install -e PyMusicPlayer
   python -m PyMusicPlayer
