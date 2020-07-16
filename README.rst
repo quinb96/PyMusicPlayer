@@ -8,3 +8,6 @@ cd PyMusicPlayer
 python3 PyMusicPlayer.py
 
 ``testing``
+
+Ello::
+$ pip install -e
