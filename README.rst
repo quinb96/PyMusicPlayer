@@ -6,3 +6,5 @@ Run this script by opening your terminal and typing: git clone https://github.co
 cd PyMusicPlayer
 
 python3 PyMusicPlayer.py
+
+''testing''
