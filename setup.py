@@ -6,8 +6,6 @@ setup(name = "PyMusicPlayer",
       description="A Python music player that was made with the Tkinter module in Python3.",
       author = "Quin Brown",
       author_email = "quinb96@protonmail.com,
-      include_package_data = True,
       packages = find_packages(),
-      zip_safe = False
       platforms = "Linux", "Windows",
       executables = [Executable("PyMusicPlayer.py", icon=purphalfnote.ico, shortcutName="PyMusicPlayer", shortcutDir="DesktopFolder",)])
