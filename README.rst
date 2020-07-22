@@ -23,7 +23,7 @@ Windows setup.py::
   cd PyMusicPlayer
   python setup.py install
   cd build
-  cd exe-win32-3.8 (Te "3.8" part of the folder will vary)
+  cd exe-win32-3.8 (The "3.8" part of the folder will vary)
  Double click ``PyMusicPlayer.exe``
   
 If you'd like to install the program using an msi installer, you can download it from the Releases section
