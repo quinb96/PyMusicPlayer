@@ -10,5 +10,7 @@ Run this script by opening your terminal and typing::
 If you'd like to install this onto your device::
 
   python setup.py install
+ 
+This will create a build folder. Click build, then exe-win32-3.8, then run PyMusicPlayer.exe
   
 If you'd like to install the program to Windows you can download the msi installer from the Releases tab
