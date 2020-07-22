@@ -13,4 +13,4 @@ Install to Windows::
  
 This will create a build folder. Click build, then exe-win32-3.8, then run PyMusicPlayer.exe
   
-If you'd like to install the program to Windows you can download the msi installer from the Releases tab
+If you'd like to install the program using an msi installer, you can download it from the Releases section
