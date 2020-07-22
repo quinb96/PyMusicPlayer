@@ -11,4 +11,4 @@ If you'd like to install this onto your device::
 
   python setup.py install
   
-If you're using Windows you can install it using an msi from the Releases tab
+If you'd like to install the program to Windows you can download the msi installer from the Releases tab
