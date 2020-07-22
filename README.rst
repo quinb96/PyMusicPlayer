@@ -18,7 +18,7 @@ Linux setu.py (Optional)::
   ./PyMusicPlayer
   
   
-Windows setup.py::
+Windows setup.py (Optional)::
  
   git clone https://github.com/sketchyboi14/PyMusicPlayer.git
   cd PyMusicPlayer
