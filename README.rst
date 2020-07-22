@@ -15,6 +15,7 @@ Linux setu.py (Optional)::
   python setup.py install
   cd build
   cd exe-win32-3.8 (The "3.8" part of the folder will vary)
+  ./PyMusicPlayer
   
   
 Windows setup.py::
