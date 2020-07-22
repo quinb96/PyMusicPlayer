@@ -7,9 +7,8 @@ Run this script by opening your terminal and typing::
   cd PyMusicPlayer
   python3 PyMusicPlayer
   
-If you'd like to install this onto your device type::
+If you'd like to install this onto your device::
 
   python setup.py install
-  or
-  pip install -e PyMusicPlayer
-  python -m PyMusicPlayer
+  
+If you're using Windows you can install it using an msi from the Releases tab
