@@ -32,4 +32,4 @@ Install to Windows via MSI Installer
 ++++++++++++++++++++++++++++++++++++
 https://github.com/sketchyboi14/PyMusicPlayer/releases/tag/sketch
 
-.. image:: https://www.vectorstock.com/royalty-free-vector/pixel-art-cute-kitten-domestic-pet-8-bit-glitch-vector-27629245
+.. image:: https://github.com/thebjorn/pydeps/blob/master/docs/_static/pydeps-pylib.svg
